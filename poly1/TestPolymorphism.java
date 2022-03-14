@@ -22,6 +22,7 @@ public class TestPolymorphism {
 		System.out.print("Nokta 0, Daire 1, ve Silindir icin 2 degerini giriniz:");
 		int j=scan.nextInt();
 		System.out.println("Sectiginiz Alan:"+s[j].area());
+		scan.close();
 	}
 
 }
