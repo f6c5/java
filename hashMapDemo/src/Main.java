@@ -10,7 +10,7 @@ public class Main {
         System.out.println(sozluk.size());
 
         for (String item : sozluk.keySet()){
-            System.out.println("Eleman-"+item+" Değer-"+sozluk.get(item));
+            System.out.println("Eleman-"+item+" Deger-"+sozluk.get(item));
         }
 
 
